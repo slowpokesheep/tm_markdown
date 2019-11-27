@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-git clone https://github.com/slowpokesheep/ssh_markdown.git
+git clone https://github.com/slowpokesheep/tm_markdown.git
 cd markdown
 npm install
 npm start
@@ -11,7 +11,7 @@ npm start
 
 ## Template preview
 
-[Github page](https://slowpokesheep.github.io/ssh_presentation/#/)
+[Github page](https://slowpokesheep.github.io/tm_presentation/#/)
 
 ## Info
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
